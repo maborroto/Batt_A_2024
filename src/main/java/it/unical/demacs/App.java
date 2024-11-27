@@ -1,8 +1,5 @@
 package it.unical.demacs;
 
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) {
         Algorithms alg = new Algorithms();
