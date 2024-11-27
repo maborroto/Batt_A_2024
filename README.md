@@ -4,3 +4,4 @@ Una frase palindroma è una frase che si legge uguale da sinistra a destra e da 
 
 Ad esempio:
   - anna
+  - Angolo bar a Bologna
