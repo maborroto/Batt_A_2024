@@ -17,7 +17,9 @@ Dato il progetto Maven, si chiede di:
 
 - Per la consegna, si richiede di caricare il codice sorgente modificato nello stesso repository GitHub. È importante ignorare i file o cartelle relative alla configurazione dell'IDE e di Maven. In altre parole, il repository deve contenere esclusivamente la cartella "src", il file pom.xml e il README.md.
 
-PS: Nel repository remoto devono essere presenti sia il branch main che il branch dev.
+**PS:** Nel repository remoto devono essere presenti sia il branch main che il branch dev.
+
+**PS.2:** Consigliamo di leggere i commenti **Javadoc** dei diversi metodi ( Testo che si trova soppra il metodo).
 
 **INFORMAZIONI UTILI:**
 
