@@ -3,12 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <name>Batt_A</name>
-    <groupId>org.example</groupId>
     <artifactId>Batt_A</artifactId>
-    <version>1.0-SNAPSHOT</version>
-
-    <url>http://www.example.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
