@@ -31,7 +31,7 @@ public class Algorithms {
      * +
      * Given a non-null ordered array of integers, searches for the target number in the array
      *
-     * @param numbers Non-null array of numbers
+     * @param numbers Non-null ordered array of numbers
      * @param target  Number to be found in the array
      * @return If the target is in the array, it returns its index, otherwise -1
      * @throws IllegalArgumentException if the numbers array is null
